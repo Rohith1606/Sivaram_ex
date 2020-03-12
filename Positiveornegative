@@ -1,0 +1,27 @@
+package sivaramwork;
+
+import java.util.Scanner;
+
+public class Positiveornegative {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int n;
+		Scanner sc=new Scanner(System.in);
+		System.out.println("enter Number:");
+		n=sc.nextInt();
+		if(n>0)
+		{
+			System.out.println("Nuber is positive");
+		}
+		else if(n<0)
+		{
+			System.out.println("number is negative");
+		}else
+		{
+			System.out.println("Number=0");
+		}
+
+	}
+
+}
