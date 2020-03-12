@@ -1,0 +1,32 @@
+package sivaramwork;
+
+public class Interchange {
+
+	public static void main(String[] args) {
+		{
+
+			System.out.println("\"HELLO WORLD\"");
+
+		}
+
+	}
+
+
+
+
+
+	/*public class Helloworld {
+
+		static public void main(String[] args)       we can interchange keywords like STATIC AND PUBLIC but we can't do without public or static or arguments
+
+		{
+
+			System.out.println("\"HELLO WORLD\"");     
+
+		}
+
+	}*/
+
+	}
+
+}
